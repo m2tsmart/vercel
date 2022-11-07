@@ -1,0 +1,90 @@
+#back{
+    background-color: white;
+    margin: 30px 0px 50px 200px;
+    width:900px;height:568px;
+    outline: 0px;
+    border: 0px;
+}
+
+.img{
+    margin-top: -3px;
+    margin-left: -3px;
+    margin-right: 10px;
+    width: 550px;
+}
+
+.title{
+    font-family:Helvetica,Arial, sans-serif;
+    font-size: 20px;
+    width:230px;
+}
+
+.lets{
+    font-family:Helvetica,Arial, sans-serif;
+    font-size: 12px;
+    width: 300px;
+    margin-left: 29px;
+    opacity: 0.7;
+}
+
+.form-group{
+    border-bottom: 1px solid gainsboro;
+    margin:15px 50px 30px 29px;
+    display: flex;
+}
+
+.form-input{
+    background: transparent;
+    border: 0;
+    outline: 0;
+    color: #000000;
+    flex-grow: 1;
+}
+
+
+#create{
+    background-color: rgb(12, 7, 51);
+    
+    width: 248px; height:35px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin: 20px 40px 20px 29px;
+    outline: none;
+    display: flex;
+}
+
+#cre{
+    font-style: bold;
+    margin:auto ;
+    color: white;
+}
+
+#gg{
+    background-color: rgb(255, 255, 255);
+    width: 248px; height:35px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin: 20px 40px 20px 29px;
+    outline: none;
+    display: flex;
+}
+
+.ggle{
+    display: flex;
+}
+
+.google{
+    background: transparent;
+    border: 0;
+    outline: 0;
+    color: #000000;
+    flex-grow: 1;
+    margin: 9px 20px 0px 40px; 
+}
+
+.already{
+    font-family:Helvetica,Arial, sans-serif;
+    font-size: smaller;
+    color: rgb(151, 149, 149);
+    margin-left: 55px;
+}
